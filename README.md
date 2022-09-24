@@ -6,8 +6,10 @@ To start with this project, you need to have [Node.js](https://nodejs.org/en/) i
 
 1. Clone this repository
 2. Run `npm install` to install all the dependencies
-3. Run `npm start:dev` to start the development server
-4. Run `npm run start` to build and start the project
+3. create `.env` file and put `SERVER_PORT=8080` in it.
+4. Run `npm start:dev` to start the development server
+5. Run `npm run start` to build and start the project
+server will run in server 8080  http://localhost:8080
 
 ## Technologies used
 
